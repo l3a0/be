@@ -1,2 +1,2 @@
-# be
-Beryllium
+# Be
+Beryllium - Learning Solidity

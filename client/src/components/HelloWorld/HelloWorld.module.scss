@@ -1,0 +1,19 @@
+@import '../../layout/variables.scss';
+
+.helloWorld {
+  padding: 40px 0;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 380px;
+  height: auto;
+  padding: 40px 20px;
+  border: 1px solid #ccc;
+  box-shadow: 0px 2px 2px #ccc;
+
+  h3 {
+    border-bottom: 1px dotted #ffbe44;
+    padding-bottom: 5px;
+  }
+}
